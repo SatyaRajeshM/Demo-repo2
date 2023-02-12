@@ -6,3 +6,7 @@ some description here
 New Description
 
 Lets try one more update
+
+## Open index html file
+
+Open html file in your browser
